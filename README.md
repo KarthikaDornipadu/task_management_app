@@ -21,4 +21,6 @@ A simple Python-based task management application that allows you to:
 1. **Clone the Repository**:
    Open your terminal (or command prompt) and run the following command to clone the repository:
    ```bash
+<<<<<<< HEAD
    git clone https://github.com/KarthikaDornipadu/task_management_app.git
+=======
